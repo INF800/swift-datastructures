@@ -41,6 +41,8 @@ Then, import it using
 import DataStructures
 ```
 
+*Know more about SPM packages [here](https://github.com/rakesh4real/swift4tensorflow/tree/master/03-creating-packages/Basic)*
+
 ## Available Data Structures
 
 - Stack
