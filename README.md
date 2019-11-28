@@ -1,4 +1,4 @@
-# Data Structures - Swift Programming Language
+# Data Structures Library - Swift Programming Language
 
 ### How to use: 
 
