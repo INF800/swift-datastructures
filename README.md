@@ -2,7 +2,7 @@
 
 ## How to use: 
 
-- In swift-jupyter notebooks
+- In Swift-Jupyter Notebooks
 - In Swift Package Manager
 
 
