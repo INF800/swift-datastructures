@@ -14,7 +14,7 @@ Use the following in first cell (after restarting runtime)
 %install-location $cwd/swift-install
 %install '.package(url: "https://github.com/rakesh4real/swift-datastructures", from:"0.0.1")' DataStructures
 ```
-*[Link to blank swift-jupyter notebook](https://colab.research.google.com/github/tensorflow/swift/blob/master/notebooks/blank_swift.ipynb)*
+*Blank swift-jupyter notebook [link](https://colab.research.google.com/github/tensorflow/swift/blob/master/notebooks/blank_swift.ipynb)*
 
 Then, import it using
 ```
