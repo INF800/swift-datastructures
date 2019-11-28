@@ -1,6 +1,6 @@
 # Data Structures Library - Swift Programming Language
 
-### How to use: 
+## How to use: 
 
 - In swift-jupyter notebooks
 - In Swift Package Manager
@@ -40,3 +40,9 @@ Then, import it using
 ```
 import DataStructures
 ```
+
+## Available Data Structures
+
+- Stack
+- Queue
+- Array2D
