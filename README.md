@@ -5,7 +5,7 @@
 - In swift-jupyter notebooks
 - In Swift Package Manager
 
-**Swift-Jupyter Notebooks**
+**A. Swift-Jupyter Notebooks**
 
 Use the following in first cell (after restarting runtime)
 ```
@@ -14,7 +14,7 @@ Use the following in first cell (after restarting runtime)
 ```
 *[Link to blank swift-jupyter notebook](https://colab.research.google.com/github/tensorflow/swift/blob/master/notebooks/blank_swift.ipynb)*
 
-**In SPM*
+**B. In SPM**
 
 In package.swift:
 ```
