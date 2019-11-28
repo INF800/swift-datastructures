@@ -5,6 +5,8 @@
 - In swift-jupyter notebooks
 - In Swift Package Manager
 
+
+
 **I Importing in Swift-Jupyter Notebooks**
 
 Use the following in first cell (after restarting runtime)
@@ -18,6 +20,8 @@ Then, import it using
 ```
 import DataStructures
 ```
+
+
 
 **II. Importing in SPM**
 
