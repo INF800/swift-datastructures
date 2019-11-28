@@ -1,13 +1,13 @@
 # Data Structures Library - Swift Programming Language
 
-## How to use: 
+## Usage: 
 
 - In Swift-Jupyter Notebooks
 - In Swift Package Manager
 
 
 
-**I Importing in Swift-Jupyter Notebooks**
+**I. Importing in Swift-Jupyter Notebooks**
 
 Use the following in first cell (after restarting runtime)
 ```
@@ -25,7 +25,7 @@ import DataStructures
 
 **II. Importing in SPM**
 
-In package.swift:
+In `package.swift`:
 ```
 // add this in appropriate place
 .package(url: "https://github.com/rakesh4real/swift-datastructures", from:"0.0.1")
