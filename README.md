@@ -5,7 +5,7 @@
 - In swift-jupyter notebooks
 - In Swift Package Manager
 
-**A. Swift-Jupyter Notebooks**
+**I Importing in Swift-Jupyter Notebooks**
 
 Use the following in first cell (after restarting runtime)
 ```
@@ -14,7 +14,12 @@ Use the following in first cell (after restarting runtime)
 ```
 *[Link to blank swift-jupyter notebook](https://colab.research.google.com/github/tensorflow/swift/blob/master/notebooks/blank_swift.ipynb)*
 
-**B. In SPM**
+Then, import it using
+```
+import DataStructures
+```
+
+**II. Importing in SPM**
 
 In package.swift:
 ```
@@ -25,4 +30,9 @@ In package.swift:
 .target(
             name: "DataStructures",
             dependencies: ["DataStructures"]
+```
+
+Then, import it using
+```
+import DataStructures
 ```
